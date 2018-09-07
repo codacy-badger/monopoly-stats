@@ -1,0 +1,3 @@
+# Monopoly Statistics!
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/fo-shizzle.svg)](https://forthebadge.com)
+I couldn't sleep, so I made this. Does a very basic simulation of a monopoly game to find how often each tile is landed on. At the moment only accounts for jail, doesn't think about chance or community chest.
